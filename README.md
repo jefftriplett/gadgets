@@ -1,4 +1,4 @@
-# gadgets
+# :control_knobs: gadgets
 
 This repo tracks interesting products that I find and like. 
 
